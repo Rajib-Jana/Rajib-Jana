@@ -21,7 +21,6 @@ A results-driven **Web Developer & IT Specialist** with a strong foundation in *
 
 ### 🌐 Connect With Me
 - 💼 **LinkedIn:** [Rajib Jana](https://linkedin.com/in/rajib-jana-7496bb439)
-- ✉️ **Email:** Rajibjana92@gmail.com
 - ✉️ **Email:** Rajibjana750@gmail.com
 
 ⭐️ *Feel free to explore my repositories and live projects hosted on Vercel!*
